@@ -1,7 +1,7 @@
 # DHBW23_Abgabe (TFE21-2)
 Abgabe des Programmentwurfs und der Dokumentation zu dem Modul: Digitalen Bildverarbeitung und Mustererkennung.
 
-Klick hier: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KaanAyd/DHBW23_Abgabe/main?labpath=KaanAydin_Notebook.ipynb)
+Hier klicken: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KaanAyd/DHBW23_Abgabe/main?labpath=KaanAydin_Notebook.ipynb)
 
 --------------
 
@@ -16,4 +16,4 @@ Anbei noch eine kleine Nachricht:
 --------------
 
 # Kontakt
-Kaan Aydin - kaan.aydin@zf.com (aydin.kaan-it21@it.dhbw-ravensburg.de)
+Kaan Aydin (9752327) - kaan.aydin@zf.com (aydin.kaan-it21@it.dhbw-ravensburg.de)
