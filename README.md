@@ -9,5 +9,7 @@ Unter dem Ordner "[Abgabe](https://github.com/KaanAyd/DHBW23_Abgabe/tree/main/Ab
 
 Anbei noch eine kleine Nachricht:
 
-
 ![image](https://github.com/KaanAyd/DHBW23_Abgabe/assets/155579622/90b91cf8-4ac9-4062-b945-0229ed3a4f29)
+
+# Kontakt
+Kaan Aydin - kaan.aydin@zf.com (aydin.kaan-it21@it.dhbw-ravensburg.de)
