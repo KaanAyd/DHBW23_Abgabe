@@ -5,7 +5,7 @@ Klick: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/
 
 --------------
 
-Unter dem Ordner "[Abgabe](https://github.com/KaanAyd/DHBW23_Abgabe/tree/main/Abgabe)" befindet sich noch eine andere Datei, falls die Ausführung über "[KaanAydin_Notebook](https://github.com/KaanAyd/DHBW23_Abgabe/blob/main/KaanAydin_Notebook.ipynb)" nicht funktioniert.
+Unter dem Ordner "[Abgabe](https://github.com/KaanAyd/DHBW23_Abgabe/tree/main/Abgabe)" befindet sich noch eine andere Datei, falls die Ausführung über Binder, bzw. "[KaanAydin_Notebook](https://github.com/KaanAyd/DHBW23_Abgabe/blob/main/KaanAydin_Notebook.ipynb)", nicht funktioniert.
 
 --------------
 
